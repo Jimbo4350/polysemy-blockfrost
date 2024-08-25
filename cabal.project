@@ -1,0 +1,11 @@
+index-state: hackage.haskell.org 2024-08-15T08:53:32Z
+
+packages: .
+
+
+source-repository-package
+    type: git
+    location: https://github.com/Jimbo4350/blockfrost-haskell.git
+    tag: ddf1969273f3ef37f89a32ff3233151f369123ee
+    subdir: blockfrost-api
+            blockfrost-client
